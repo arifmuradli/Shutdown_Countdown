@@ -2,6 +2,10 @@
 
 A Windows desktop app that warns users of an idle computer with a **15-minute countdown** before automatically shutting it down. The user can cancel by clicking **REJECT**.
 
+## Screenshot
+
+![Shutdown Warning App](screenshot.png)
+
 ## How it works
 
 1. App launches and shows a warning dialog with a countdown timer
