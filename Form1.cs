@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Diagnostics;
 using System.Drawing;
@@ -55,13 +56,18 @@ namespace Final_Project
         }
         private void Form1_Load(object sender, EventArgs e)
         {
+            int minutes = 15;
+            string setting = ConfigurationManager.AppSettings["CountdownMinutes"];
+            if (!string.IsNullOrEmpty(setting) && int.TryParse(setting, out int parsed) && parsed > 0)
+                minutes = parsed;
+
+            countdownLabel.Text = $"{minutes:D2}:00";
+
             WarningTimer.Start();
-            ResourceManager rm = new ResourceManager(typeof(Form1)); // Replace "MyForm" with your form class name
-            SoundPlayer player = new SoundPlayer(rm.GetStream("livech")); // Replace "mySound" with your resource name
 
-            // Play the sound
+            ResourceManager rm = new ResourceManager(typeof(Form1));
+            SoundPlayer player = new SoundPlayer(rm.GetStream("livech"));
             player.Play();
-
         }
 
 

@@ -8,3 +8,14 @@ C:\Users\arif\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.c
 C:\Users\arif\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
 C:\Users\arif\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.exe
 C:\Users\arif\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
+D:\Arif\Project\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.AssemblyReference.cache
+D:\Arif\Project\Final_Project\Final_Project\obj\Debug\Final_Project.exe.config
+D:\Arif\Project\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+D:\Arif\Project\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
+D:\Arif\Project\Final_Project\Final_Project\obj\Debug\Final_Project.Form1.resources
+D:\Arif\Project\Final_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\Arif\Project\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+D:\Arif\Project\Final_Project\Final_Project\bin\Debug\Final_Project.exe.config
+D:\Arif\Project\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+D:\Arif\Project\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+D:\Arif\Project\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache

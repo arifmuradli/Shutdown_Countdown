@@ -1,0 +1,41 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Certificates & keys (sensitive — do not commit)
+*.pfx
+*.p12
+*.key
+*.cer
+*.crt
+
+# Compiled resources
+*.pidb
+*.pdb
+*.ilk
+*.meta
+*.manifest
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+
+# Publish output
+publish/
