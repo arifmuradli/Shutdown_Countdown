@@ -7,7 +7,7 @@
     <ProjectGuid>{2643926D-6C50-4209-9B53-C4B1191792C5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Final_Project</RootNamespace>
-    <AssemblyName>Final_Project</AssemblyName>
+    <AssemblyName>Shutdown_Countdown</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
